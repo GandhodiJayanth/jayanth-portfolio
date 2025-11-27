@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jayanth-portfolio/static/css/main.74ac8ce9.css",
+    "main.js": "/jayanth-portfolio/static/js/main.74930359.js",
+    "static/js/453.07b5e2ad.chunk.js": "/jayanth-portfolio/static/js/453.07b5e2ad.chunk.js",
+    "static/media/GandhodiJayanth.jpg": "/jayanth-portfolio/static/media/GandhodiJayanth.eb1af865a71f6c379913.jpg",
+    "index.html": "/jayanth-portfolio/index.html",
+    "main.74ac8ce9.css.map": "/jayanth-portfolio/static/css/main.74ac8ce9.css.map",
+    "main.74930359.js.map": "/jayanth-portfolio/static/js/main.74930359.js.map",
+    "453.07b5e2ad.chunk.js.map": "/jayanth-portfolio/static/js/453.07b5e2ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74ac8ce9.css",
+    "static/js/main.74930359.js"
+  ]
+}
